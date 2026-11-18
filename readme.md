@@ -115,7 +115,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kafoor-Nimas/blood-donation-app.git
+git clone https://github.com/VIKRAM-1318/blood-donation-app.git
 
 cd blood-donation-app
 ```
@@ -239,13 +239,11 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ---
 
-## 👨‍💻 Developers & Maintainers
+## 👨‍💻 Developer & Maintainer
 
-**Developed & Maintained by:** R. Vikram
-- **GitHub:** [VIKRAM-1318](https://github.com/VIKRAM-1318)
+**Developed and Maintained by:** Vikram
 
-**Original Developer:** K. Nimas
-- **GitHub:** [Kafoor-Nimas](https://github.com/Kafoor-Nimas)
+**GitHub:** [VIKRAM-1318](https://github.com/VIKRAM-1318)
 
 **Repository:** [LifeLink – Blood Donation App](https://github.com/VIKRAM-1318/blood-donation-app)
 
