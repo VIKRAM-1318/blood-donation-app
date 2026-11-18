@@ -239,10 +239,13 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers & Maintainers
 
-**Developed by:** K. Nimas
+**Developed & Maintained by:** R. Vikram
+- **GitHub:** [VIKRAM-1318](https://github.com/VIKRAM-1318)
 
-**GitHub:** [Kafoor-Nimas](https://github.com/Kafoor-Nimas)
+**Original Developer:** K. Nimas
+- **GitHub:** [Kafoor-Nimas](https://github.com/Kafoor-Nimas)
 
 **Repository:** [LifeLink – Blood Donation App](https://github.com/VIKRAM-1318/blood-donation-app)
+
